@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HexColors", "HexColors\HexColors.vcxproj", "{5D78EDF3-2297-421F-803D-1632B394DD00}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Similarity", "Similarity\Similarity.vcxproj", "{6FC41530-7216-48D4-ADE1-00D72335D63B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{5D78EDF3-2297-421F-803D-1632B394DD00}.Release|x64.Build.0 = Release|x64
 		{5D78EDF3-2297-421F-803D-1632B394DD00}.Release|x86.ActiveCfg = Release|Win32
 		{5D78EDF3-2297-421F-803D-1632B394DD00}.Release|x86.Build.0 = Release|Win32
+		{6FC41530-7216-48D4-ADE1-00D72335D63B}.Debug|x64.ActiveCfg = Debug|x64
+		{6FC41530-7216-48D4-ADE1-00D72335D63B}.Debug|x64.Build.0 = Debug|x64
+		{6FC41530-7216-48D4-ADE1-00D72335D63B}.Debug|x86.ActiveCfg = Debug|Win32
+		{6FC41530-7216-48D4-ADE1-00D72335D63B}.Debug|x86.Build.0 = Debug|Win32
+		{6FC41530-7216-48D4-ADE1-00D72335D63B}.Release|x64.ActiveCfg = Release|x64
+		{6FC41530-7216-48D4-ADE1-00D72335D63B}.Release|x64.Build.0 = Release|x64
+		{6FC41530-7216-48D4-ADE1-00D72335D63B}.Release|x86.ActiveCfg = Release|Win32
+		{6FC41530-7216-48D4-ADE1-00D72335D63B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
